@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5e768e</color>
+    <color name="colorPrimaryLight">#8ca5be</color>
+    <color name="colorPrimaryDark">#324a61</color>
+
+    <color name="colorFretoBlueLight">#87aacc</color>
+
+    <color name="colorAccent">#ffa000</color>
+    <color name="colorAccentLight">#ffca28</color>
+    <color name="colorAccentPressed">#ffca28</color>
+
+    <color name="colorStatusRed">#bf360c</color>
+    <color name="colorStatusRedLight">#ff6744</color>
+
+    <color name="colorStatusYellow">#dcd644</color>
+
+    <color name="colorStatusGreen">#60b561</color>
+    <color name="colorStatusGreenLight">#b8ff9a</color>
+
+    <color name="colorBaseBlack">#606060</color>
+
+    <color name="colorOrange">#ff3d00</color>
+    <color name="colorDisabled">#cccccc</color>
+    <color name="colorDisabledLight">#e0e0e0</color>
+
+    <color name="divider">#BDBDBD</color>
+
+    <color name="colorWhite">#ffffff</color>
+    <color name="grey_light">#E9E9E9</color>
+    <color name="blue_greyish">#90A7C9</color>
+    <color name="color_red">#FF0000</color>
+    <color name="color_grey_dark">#2f424242</color>
+    <color name="color_grey_darker">#1f212121</color>
+    <color name="blue_freto">#81AACC</color>
+
+    <color name="foreground_material_dark">#ffffff</color>
+    <color name="white_semi_transparent">#c6ffffff</color>
+
+    <color name="colorText">#606060</color>
+
+    <color name="colorBackgroundLightGray">#f9f9f9</color>
+
+    <color name="primary_light_gray">#cccccc</color>
+    <color name="primary_dark_gray">#a1a1a1</color>
+    <color name="icons_light_gray">#cccccc</color>
+    <color name="icons">#C3C3C3</color>
+
+    <color name="background_stepper">@color/colorPrimary</color>
+    <color name="background_tab_host_menu">#87AACC</color>
+    <color name="background_light_gray">#ecf0f1</color>
+    <color name="background_color_red">#ff5722</color>
+
+    <color name="color_status_waiting">#FFA000</color>
+    <color name="color_status_reproved">#606060</color>
+    <color name="color_status_contracted">#60B561</color>
+    <color name="color_status_canceled">#FF6744</color>
+    <color name="color_status_expired">#CCCCCC</color>
+
+    <color name="transparent">#00FFFFFF</color>
+    <color name="black_semi_transparent">#B3000000</color>
+    <color name="background">#FFFFFF</color>
+    <color name="half_black">#00808080</color>
+
+</resources>
